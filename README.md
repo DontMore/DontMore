@@ -5,7 +5,7 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DontMoreA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DontMoreA&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
