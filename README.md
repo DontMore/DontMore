@@ -60,8 +60,8 @@ Based in Padang, Indonesia 🇮🇩, I enjoy bridging the gap between low-level 
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhardi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muhardi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhardi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DontMore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muhardi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontMore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
