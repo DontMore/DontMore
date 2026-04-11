@@ -59,14 +59,12 @@ Based in Padang, Indonesia 🇮🇩, I enjoy bridging the gap between low-level 
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DontMore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Muhardi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontMore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DontMore?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=DontMore&theme=dark&hide_border=true)
 
 ---
 
-### ⚡ Fun Facts
-- ✈️ I have a deep fascination with military aviation history and strategic bombers.
-- 🔧 Always looking for ways to make UI inputs look more modern and minimalist.
-- 💡 "If it compiles, it's good. If it runs fast on Linux, it's perfect."
+### Contact Me
+Email     : muhardi@onexternal.com
+<br>Website   : onexternal.com
